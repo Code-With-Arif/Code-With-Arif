@@ -54,7 +54,7 @@
   <a href="https://github.com/chatcord/xeon-cli">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=chatcord&repo=xeon-cli&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_icons=true&show_owner=true" alt="github-readme-streak-stats" />
   </a>
-  <a href="https://github.com/Code-With-Arif/ServicWorker">
+  <a href="https://github.com/Code-With-Arif/ServiceWorker">
     <img src="https://github-readme-stats.vercel.app/api/pin?username=Code-With-Arif&repo=ServiceWorker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_icons=true&show_owner=true" alt="github-readme-streak-stats" />
   </a>
   <a href="https://github.com/Code-With-Arif/ReWeb">
