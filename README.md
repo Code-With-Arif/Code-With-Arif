@@ -30,3 +30,26 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
+
+### Tools that I mostly use :
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
+  <img src="https://img.shields.io/badge/Pycharm-EEF64E.svg?&style=for-the-badge&logo=pycharm&logoColor=black" />
+</p>
+
+### My preferable databases :
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### My most usable projects : 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=chatcord&repo=xeonjs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_icons=true&show_owner=true" alt="github-readme-streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=chatcord&repo=xeon-cli&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_icons=true&show_owner=true" alt="github-readme-streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Code-With-Arif&repo=ServiceWorker&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_icons=true&show_owner=true" alt="github-readme-streak-stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin?username=Code-With-Arif&repo=ReWeb&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&show_icons=true&show_owner=true" alt="github-readme-streak-stats" />
+</p>
