@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160mm"
+   height="140mm"
+   viewBox="0 0 160 140"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="logo_colored_shadowed.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     showborder="true"
+     inkscape:showpageshadow="true"
+     inkscape:zoom="0.47215208"
+     inkscape:cx="331.461"
+     inkscape:cy="219.20903"
+     inkscape:window-width="1360"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5">
+    <sodipodi:guide
+       position="-8.9660378,219.66793"
+       orientation="1,0"
+       id="guide2266" />
+    <sodipodi:guide
+       position="176.51887,-29.233961"
+       orientation="0,-1"
+       id="guide2268" />
+    <sodipodi:guide
+       position="201.73585,12.233963"
+       orientation="1,0"
+       id="guide2270" />
+    <sodipodi:guide
+       position="68.926415,313.25094"
+       orientation="0,-1"
+       id="guide2272" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#grad1"
+       id="linearGradient851"
+       x1="-8.0757461"
+       y1="-9.1582868"
+       x2="-8.0757461"
+       y2="149.72733"
+       gradientTransform="scale(1.064917,0.93904029)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <!-- Linear Gradient   -->
+  <defs
+     id="defs11">
+    <linearGradient
+       id="grad1"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0%"
+         style="stop-color:#08a6ff;stop-opacity:1"
+         id="stop6" />
+      <stop
+         offset="100%"
+         style="stop-color:#01e7ca;stop-opacity:1"
+         id="stop8" />
+    </linearGradient>
+    <!-- Drop Shadow Effect -->
+    <filter
+       id="shadow"
+       x="-0.035739391"
+       y="-0.041569322"
+       width="1.099528"
+       height="1.1157633">
+      <feOffset
+         result="offOut"
+         in="SourceAlpha"
+         dx="4"
+         dy="4"
+         id="feOffset1568" />
+      <feGaussianBlur
+         result="blurOut"
+         in="offOut"
+         stdDeviation="1"
+         id="feGaussianBlur1570" />
+      <feBlend
+         in="SourceGraphic"
+         in2="blurOut"
+         mode="normal"
+         id="feBlend1572" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline;stroke:url(#grad1)">
+    <path
+       id="path8551"
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient851);stroke-width:5.39335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#shadow)"
+       d="m 36.605898,84.49276 v 41.81056 m 0,0 71.592002,-0.565 m 0,0 V 84.49276 m 0,0 38.10543,-21.470285 m 0,0 -37.52807,-58.760793 m 0,0 L 72.401901,23.8182 m 2e-6,0 L 37.183254,3.6966751 m 0,0 L 3.6966751,63.022469 M 36.605898,84.49276 3.6966751,63.022469 m 0,0 32.9092229,63.280851 M 72.661072,103.99165 36.605898,126.30332 M 36.865068,43.317096 3.6966751,63.022469 M 37.183254,3.6966751 108.77526,4.261682 m -0.31817,39.055414 0.31817,-39.055414 M 36.865068,43.317096 37.183254,3.6966751 M 108.45709,43.317096 146.30333,63.022475 M 108.1979,125.73832 146.30333,63.022475 M 72.661072,103.99165 108.1979,125.73832 m 0.25919,-82.421224 H 36.865069 M 72.661073,103.99165 36.865069,43.317096 M 72.661073,103.99165 108.45709,43.317096 M 108.1979,84.49276 72.401904,23.8182 M 36.605898,84.49276 72.401904,23.8182 M 36.605898,84.49276 H 108.1979"
+       transform="matrix(0.93494663,0,0,0.92303126,9.0355186,8.9430293)" />
+  </g>
+</svg>
