@@ -69,3 +69,9 @@
 <a href="https://github.com/Code-With-Arif">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Code-With-Arif&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+
+## Contact Me :
+[<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/Code-With-Arif)
+[<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Code_With_Arif)
+[<img alt="Facebook" src="https://img.shields.io/badge/facebook-0572E6.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/CodeWithArif.official)
+[<img alt="Facebook" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:as2048282@gmail.com)
